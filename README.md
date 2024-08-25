@@ -52,6 +52,8 @@ My larger project will consist of small projects and things I have learned from 
 
 
 **Data Requirements: Identify any data sources, databases, or APIs you’ll need.**
+
+
 I plan to keep track of the topics I have learned through Cybrary, and this will help me keep track of what I still need to the learn for the HackVh competition. I will be using Cybrary and applying to various courses throughout my project. I also plan to utilize Khan Academy if I need help with the html on my website. Software for project listed above. Lastly, our project should meet the evaluation criteria for the event and I plan to record all of this info after winners are announced and feedback is given.
 
 
