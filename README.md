@@ -1,6 +1,7 @@
 # Benjamin Dudek Cybersecurity Project Planner
 **Cybrary Notes:**
 Research Plan for a Programming Semester Project
+
 **1.  Define the Project Goal**
 **Objective: Clarify what the project aims to achieve (e.g., solving a problem, creating a new tool, learning a specific technology).**
 
