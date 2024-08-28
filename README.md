@@ -19,7 +19,7 @@ I am interested in cybersecurity and IT, however, I do not know much about the t
 **Problem Statement: Formulate a clear problem or opportunity that your project will address.**
 
 
-I want to create a website that is accessible to everyone who wants to learn more about cybersecurity, as well as document my research and what I learned through the application of this course and possibly various other courses. I also want to participate in the HackVh event hosted by the school to put my skills that I have been learning throughout the year to the test.
+I want to create a website that is accessible to everyone who wants to learn more about cybersecurity, as well as document my research and what I learned through the application of this course and possibly various other courses. I also want to participate in the HackVh event hosted by the school to put the skills that I have been learning throughout the year to the test.
 
 
 **Define Success: Determine what success looks like (e.g., a working prototype, a fully functional application, or a learning outcome).**
@@ -114,3 +114,51 @@ New Github repository was created. Branches for specific needs will be created d
 
 
 **Final Report/Presentation: Utilize GitHub Pages to host your project's final report or create a project wiki directly on GitHub to present your findings, research process, and project outcomes.**
+
+
+Week 1: Research Plan for a Programming Semester Project 
+	(See above)
+Week 2: Initial Development and Prototyping
+
+
+1. Revised Research Plan	
+Deliverable: Submit a revised research plan that incorporates feedback received last week.
+Details:
+Ensure your project goal is clear and achievable.
+Refine your problem statement and success criteria.
+Update your timeline and requirements based on the feedback provided.
+
+
+3. Prototype/Wireframe
+Deliverable: Create and submit an initial prototype or wireframe of your project.
+Details:
+This can be a rough sketch, digital design, or early physical prototype (for hardware projects).
+Focus on visualizing or outlining the main components of your project (e.g., user interface, hardware layout, data flow).
+
+
+2. Technical Approach Outline
+Deliverable: Provide a written outline of your technical approach, tailored to the nature of your project.
+Details:
+For Software Projects: Describe the key algorithms, data structures, or code modules you plan to implement.
+For Hardware/Robotics Projects: Outline the hardware components, sensors, and any control systems you’ll be using.
+For VR/AR Projects: Detail the environment design, user interaction methods, and the tools or platforms you’ll be utilizing.
+Include a basic plan for how you will develop, test, and integrate these elements.
+
+
+4. Development Environment/Setup
+Deliverable: Ensure your development environment, hardware setup, or design tools are fully prepared and functional.
+Details:
+Provide a brief report confirming that all necessary tools, software, libraries, or hardware components are ready.
+Include a link to your GitHub repository with initial commits showing your setup, if applicable.
+
+
+6. Initial Development
+Deliverable: Begin working on your project and submit an initial version or progress report.
+Details:
+For Software Projects: Submit an early version of your code with basic functionality.
+For Hardware/Robotics Projects: Share initial assembly or configuration of your hardware components.
+For VR/AR Projects: Submit an early prototype of your environment or interaction model.
+Ensure that your work is well-organized, properly documented, and regularly updated in your GitHub repository (if applicable).
+
+
+
