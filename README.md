@@ -6,7 +6,7 @@ Research Plan for a Programming Semester Project
 **Objective: Clarify what the project aims to achieve (e.g., solving a problem, creating a new tool, learning a specific technology).**
 
 
-I plan to create a website using Github that will have the information I learned through the course at Cybrary. There are activities within the course that will allow me to apply my knowledge and later document it on the website.
+I plan to create a website using Github that will have the information I learned through the course at Cybrary and ISC2. There are activities within both courses that will allow me to apply my knowledge and later document it on the website. 
 
 
 **Steps:
@@ -19,13 +19,13 @@ I am interested in cybersecurity and IT, however, I do not know much about the t
 **Problem Statement: Formulate a clear problem or opportunity that your project will address.**
 
 
-I want to create a website that is accessible to everyone who wants to learn more about cybersecurity, as well as document my research and what I learned through the application of this course and possibly various other courses. I also want to participate in the HackVh event hosted by the school to put the skills that I have been learning throughout the year to the test.
+I want to create a website that is accessible to everyone who wants to learn more about cybersecurity, as well as document my research and what I learned through the application of this course and possibly various other courses. I also want to receive my certification in cybersecurity as part of my culminating project at the end of year.
 
 
 **Define Success: Determine what success looks like (e.g., a working prototype, a fully functional application, or a learning outcome).**
 
 
-Success for me would be the application of the knowledge I acquire from learning the content through the creation of a website and participation in the HackVH event in March 2025.
+Success for me would be the application of the knowledge I acquire from learning the content through the creation of a website and becoming certified in cybersecurity through the exam I plan to take at CLC.
 
 **2.  Conduct Preliminary Research
 Objective: Gather information to refine your idea and understand the scope.
@@ -39,7 +39,7 @@ Literature Review: Look at existing projects or research in your area of interes
 **Feasibility Analysis: Assess the complexity of the project. Consider your current skills and time constraints.**
 
 
-My larger project will consist of small projects and things I have learned from my project on the topic of cybersecurity. I will be doing a lot of my learning through the program, wireshark, because of its ability to represent learning topics through labs. My project will be fairly complex because of the amount of topics I plan to learn and apply through labs. The HackVh competition will be complex in the prompt we are given to create a solution for. (Info will be documented after the HackVH event on Github). I also have a lot of time from September to March to learn integral cybersecurity and IT concepts for the event.
+My larger project will consist of small projects and things I have learned from my project on the topic of cybersecurity. I will be doing a lot of my learning through the program, Wireshark, because of its ability to represent learning topics through labs. My project will be fairly complex because of the amount of topics I plan to learn and apply through labs. During the learning at Cybrary and ISC2 to become certified in cybersecurity. I plan to use Cybrary to get the basics of cybersecurity and later on enroll in a practice-based course for six months after which I can take a culminating exam to test my knowledge.
 
 
 **3.  Define Project Requirements**
@@ -54,7 +54,7 @@ My larger project will consist of small projects and things I have learned from 
 **Data Requirements: Identify any data sources, databases, or APIs you’ll need.**
 
 
-I plan to keep track of the topics I have learned through Cybrary, and this will help me keep track of what I still need to the learn for the HackVh competition. I will be using Cybrary and applying to various courses throughout my project. I also plan to utilize Khan Academy if I need help with the html on my website. Software for project listed above. Lastly, our project should meet the evaluation criteria for the event and I plan to record all of this info after winners are announced and feedback is given.
+I plan to keep track of the topics I have learned through Cybrary and ISC2, and this will help me keep track of what I still need to the learn for the ISC2 certification exam. I will be using Cybrary and applying to various courses throughout my project, as well as ISC2. I also plan to utilize Khan Academy if I need help with the html on my website.(Software for project listed above). Lastly, my goal is to pass the certification exam to become certified in cybersecurity through CLC.
 
 
 **4.  Develop a Project Timeline**
@@ -71,7 +71,7 @@ I plan to keep track of the topics I have learned through Cybrary, and this will
 **Allocate Time for Learning: Plan time for learning new technologies or concepts.**
 
 
-Currently, I am enrolled in a 40-hour course for IT and Cybersecurity fundamentals in Cybrary. I plan to utilize all the class time I have available to do work in the course and completing the course should take me about 55 days in total. However, I will take days or part of days to document my progress in between learning days. Essentially, I will be working on my website during my enrollment in the course. I am also going to enter into the hackVH event in March next year as part of my culmintating project.
+Currently, I am enrolled in a 40-hour course for IT and Cybersecurity fundamentals in Cybrary. I plan to utilize all the class time I have available to do work in the course and completing the course should take me about 55 days in total. However, I will take days or part of days to document my progress in between learning days. Essentially, I will be working on my website during my enrollment in the course. I plan to take the certification exam sometime in late March or early April to get my results before the end of the school year.
 
 
 **5.  Create a Research and Development Plan**
@@ -86,7 +86,7 @@ Currently, I am enrolled in a 40-hour course for IT and Cybersecurity fundamenta
 **Testing Strategy: Define how you will test your code (e.g., unit testing, user testing) and what tools you'll use.**
 
 
-I want to present my information and explain each new concept I learned through the website and its purpose in the field of cybersecurity. Also, I would like to make sure that I learn many of the concepts that are important to know in cybersecurity and IT. When I do the HackVH event my team's project will be scored by the judges and that will be the evaluation of my part of code in the project.
+I want to present my information and explain each new concept I learned through the website and its purpose in the field of cybersecurity. Also, I would like to make sure that I learn many of the concepts that are important to know in cybersecurity and IT. I will test my knowledge through the certification and this will give me a chance to prove my knowledge and everything I have learned throughout the school year.
 
 
 **6.  Document and Present Findings (Using GitHub)
@@ -129,11 +129,19 @@ Refine your problem statement and success criteria.
 Update your timeline and requirements based on the feedback provided.
 
 
+(Done, see above)
+
+
 3. Prototype/Wireframe
 Deliverable: Create and submit an initial prototype or wireframe of your project.
 Details:
 This can be a rough sketch, digital design, or early physical prototype (for hardware projects).
 Focus on visualizing or outlining the main components of your project (e.g., user interface, hardware layout, data flow).
+
+
+- I plan to finish the Cybrary Introductions course by late October or early November
+- Afterwards, I can enroll in the ISC2 course to learn all of the necessary topics I need to know for the certification exam
+- Lastly, I plan to take the exam in late April or early May to get my results before the end of the school year.
 
 
 2. Technical Approach Outline
@@ -144,12 +152,18 @@ For Hardware/Robotics Projects: Outline the hardware components, sensors, and an
 For VR/AR Projects: Detail the environment design, user interaction methods, and the tools or platforms you’ll be utilizing.
 Include a basic plan for how you will develop, test, and integrate these elements.
 
+I plan to test my knowledge with the certification exam, however, I will also document the topics I learn through the course at Cybrary and ISC2. I will continue working on the Cybrary course first because it gives a good introduction to the basics of cybersecurity that later the course at ISC2 will help me expand.
+
+
 
 4. Development Environment/Setup
 Deliverable: Ensure your development environment, hardware setup, or design tools are fully prepared and functional.
 Details:
 Provide a brief report confirming that all necessary tools, software, libraries, or hardware components are ready.
 Include a link to your GitHub repository with initial commits showing your setup, if applicable.
+
+
+I can access a textbook from the ISC2 website with free access for 6 months, also I can choose a date for my certification exam at CLC. Also, I have access to Cybrary and Khan Academy and I am currently doing all of my initial learning necessary before enrolling in the course.
 
 
 6. Initial Development
@@ -159,6 +173,9 @@ For Software Projects: Submit an early version of your code with basic functiona
 For Hardware/Robotics Projects: Share initial assembly or configuration of your hardware components.
 For VR/AR Projects: Submit an early prototype of your environment or interaction model.
 Ensure that your work is well-organized, properly documented, and regularly updated in your GitHub repository (if applicable).
+
+
+I have started the Cybrary Course and am currently researching how I can study for the certification exam as well as the requirements needed for taking the exam. I plan to have the Cybrary course done in late October or Early December and immediately afterwards enroll in the ICS2 course to continue my learning from there.
 
 
 
