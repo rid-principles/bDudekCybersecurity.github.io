@@ -118,7 +118,8 @@ New Github repository was created. Branches for specific needs will be created d
 
 Week 1: Research Plan for a Programming Semester Project 
 	(See above)
-Week 2: Initial Development and Prototyping
+ 
+# Week 2: Initial Development and Prototyping
 
 
 1. Revised Research Plan	
@@ -132,7 +133,7 @@ Update your timeline and requirements based on the feedback provided.
 (Done, see above)
 
 
-3. Prototype/Wireframe
+2. Prototype/Wireframe
 Deliverable: Create and submit an initial prototype or wireframe of your project.
 Details:
 This can be a rough sketch, digital design, or early physical prototype (for hardware projects).
@@ -144,13 +145,14 @@ Focus on visualizing or outlining the main components of your project (e.g., use
 - Lastly, I plan to take the exam in late April or early May to get my results before the end of the school year.
 
 
-2. Technical Approach Outline
+3. Technical Approach Outline
 Deliverable: Provide a written outline of your technical approach, tailored to the nature of your project.
 Details:
 For Software Projects: Describe the key algorithms, data structures, or code modules you plan to implement.
 For Hardware/Robotics Projects: Outline the hardware components, sensors, and any control systems you’ll be using.
 For VR/AR Projects: Detail the environment design, user interaction methods, and the tools or platforms you’ll be utilizing.
 Include a basic plan for how you will develop, test, and integrate these elements.
+
 
 I plan to test my knowledge with the certification exam, however, I will also document the topics I learn through the course at Cybrary and ISC2. I will continue working on the Cybrary course first because it gives a good introduction to the basics of cybersecurity that later the course at ISC2 will help me expand.
 
@@ -166,7 +168,7 @@ Include a link to your GitHub repository with initial commits showing your setup
 I can access a textbook from the ISC2 website with free access for 6 months, also I can choose a date for my certification exam at CLC. Also, I have access to Cybrary and Khan Academy and I am currently doing all of my initial learning necessary before enrolling in the course.
 
 
-6. Initial Development
+5. Initial Development
 Deliverable: Begin working on your project and submit an initial version or progress report.
 Details:
 For Software Projects: Submit an early version of your code with basic functionality.
@@ -175,7 +177,7 @@ For VR/AR Projects: Submit an early prototype of your environment or interaction
 Ensure that your work is well-organized, properly documented, and regularly updated in your GitHub repository (if applicable).
 
 
-I have started the Cybrary Course and am currently researching how I can study for the certification exam as well as the requirements needed for taking the exam. I plan to have the Cybrary course done in late October or Early December and immediately afterwards enroll in the ICS2 course to continue my learning from there.
+I have started the Cybrary Course and am currently researching how I can study for the certification exam as well as the requirements needed for taking the exam. I plan to have the Cybrary course done in late October or Early November and immediately afterward enroll in the ICS2 course to continue my learning from there. My reports in Github will help me document the knowledge I have acquired to help me study for the certification later on.
 
 
 
