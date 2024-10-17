@@ -179,5 +179,124 @@ Ensure that your work is well-organized, properly documented, and regularly upda
 
 I have started the Cybrary Course and am currently researching how I can study for the certification exam as well as the requirements needed for taking the exam. I plan to have the Cybrary course done in late October or Early November and immediately afterward enroll in the ICS2 course to continue my learning from there. My reports in Github will help me document the knowledge I have acquired to help me study for the certification later on.
 
+1. Daily Contribution Log
+Features/Improvements:
+A detailed log of the functionality or improvements made each day, with an explanation of progress on the project’s core features.
 
+October 7th:
+Today I asked if I could get VirtualBox installed on the school computer, however it might cause holes in the school network because to run the program you need to reconfigure your network because the 
+program creates its own virtual ip address. I also went to IT, but they were having a meeting.
+
+I am going to use VirtualBox for my project because it has all the tools I need to write my linux script and I just need to find software that could allow me to log into my home computer remotely.
+
+I tried options with teamviewer and Anydesk at home, however it would require installation of the programs on the school computer regardless, not solving the problem.
+
+October 8th:
+
+I worked on my lab writeups because I decided I want my project to detect changes in the files of a system, and report them to the user of the system after contacting my mentor.
+
+I created my virtual machine with a 64-bit Linux OS at home, and I added .txt files to a folder created under the name Comp Sci. Projects.
+
+October 9th:
+
+Today I learned the most popular and important Linux commands to use in my Linux script and I started my written report for unit 8 including the purpose of the project.
+
+Also, I learned to how to use the VirtualBox Software on the school computer while connecting remotely to my network. 
+
+October 14th:
+
+I need my own computer's IPV4 address, name assigned, username and password to grant access to my computer through remote desktop.
+IPV4 address: 192.168.1.15 and 192.168.56.1
+Name: Dudek-PC
+Username:Dudek
+Password:Dudek2020
+
+School Name: V-0200-02.hs.district128.org
+
+I contacted my mentor and I can use the built-in micrsoft remote desktop connection using either teamviewer or built-in desktop viewer.
+
+Oct. 15th 
+
+I worked on my writeups for the week and I have tried to connect using remote desktop, however I need to make some changes to my permissions on my own computer at my house.
+
+I made changes to the permissions of my computer and I have connected remotely from another computer in my house.
+
+Oct. 16th
+
+I went to IT today and talked about the remote connection from the school computer because it did not allow me to connect remotely to my PC.
+
+I 
+
+Code Changes:
+Specific updates to the codebase, including commit messages that clearly describe what was changed.
+Issues/Resolutions:
+
+Document any bugs or challenges faced during the development process and how they were resolved (or how you plan to resolve them).
+Testing Results: 
+I could not 
+
+Include results from testing any new features or functionality added this week. Highlight any successful tests or issues discovered.
+Screenshots/Demos:
+Provide visual evidence of progress, such as screenshots of new features or short video demos.
+
+
+
+
+
+
+2. Mentorship Analysis
+Mentor Contact Reflection:
+I have decided to use the built-in microsoft remote desktop, however I have run into problems trying to connect from the school to view my computer at home.
+
+Document any interactions with your mentor this week. What feedback did you receive? How has this feedback helped refine your project?
+Mentor Feedback Implementation:
+Describe how you applied your mentor’s advice. Were there any challenges in implementing this feedback? How did you address them?
+I initially tried to download software, but my mentor told me that if I have Windows 10 pro at home I can use a built-in feature to remotely access my desktop.
+
+
+Next Question for Mentor:
+What specific question or area of guidance do you plan to ask your mentor next week? This could involve final tweaks, troubleshooting, or suggestions for improving the user experience.
+I want to ask my mentor next week if there are any resources I can try to use to help me with commands while running my Linux Script. 
+
+
+
+
+3. Timeline Analysis
+Completed Tasks:
+-Setup remote desktop for working and doing a walkthrough to my project
+-Setup virtual machine with 64-bit Linux OS
+-Created .txt files that contains random lines of code
+-Started Linux Script in Virtual Machine
+
+
+Summarize your accomplishments since the last submission, especially focusing on the features or milestones reached.
+Pending Tasks: Adding features that can detect changes in data. 
+
+List what remains to be completed, along with any blockers preventing progress. This includes tasks needed to finish the MVP.
+Updated Timeline:
+I want to finish a prelminary linux script that will include
+Adjust your overall project timeline based on the progress made this week. Include a plan for how you will stay on track for the MVP submission on 11/1.
+MVP Progress & Plan
+
+
+
+
+
+
+
+<p>4.MVP Progress & Plan 
+    Core Features Expected in the MVP:
+    Provide a brief description of the key features that you plan to have working by 11/1 for your Minimal Viable Product (MVP).
+    Explain any challenges you foresee in implementing these features and how you plan to overcome them.
+    I want to implement a linux script that a user can run to check if there have been changes to data the computer 
+    
+    Bug Report:
+    Document any known bugs or issues that need to be addressed before the MVP submission. Provide a plan for resolving these.
+    There is a bug where it does not allow me to make sure
+    
+    Testing Plan:
+    Describe how you plan to test the MVP in the coming weeks. Include details on peer testing or feedback you’ll seek.
+    
+    I want to test my MVP by logging in remotely to my home computer from the computer at school and opening virtualBox. Then, I will go into my virtual machine makes changes 
+    to a file and then a message of some sort will be sent letting the user know that changes have been made to the file.</p>
 
