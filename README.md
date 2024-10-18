@@ -179,6 +179,7 @@ Ensure that your work is well-organized, properly documented, and regularly upda
 
 I have started the Cybrary Course and am currently researching how I can study for the certification exam as well as the requirements needed for taking the exam. I plan to have the Cybrary course done in late October or Early November and immediately afterward enroll in the ICS2 course to continue my learning from there. My reports in Github will help me document the knowledge I have acquired to help me study for the certification later on.
 
+# Unit 8
 1. Daily Contribution Log
 Features/Improvements:
 A detailed log of the functionality or improvements made each day, with an explanation of progress on the project’s core features.
@@ -235,7 +236,13 @@ I got help from a student and they suggested installingParsec on my home compute
 
 Code Changes:
 Specific updates to the codebase, including commit messages that clearly describe what was changed.
-Issues/Resolutions:
+Issues/Resolutions: 
+
+-I accessed the terminal through ubuntu
+
+-I created a script file
+
+-I added a 4 random text files to my created projects folder
 
 Document any bugs or challenges faced during the development process and how they were resolved (or how you plan to resolve them).
 Testing Results: 
@@ -245,17 +252,20 @@ Include results from testing any new features or functionality added this week. 
 Screenshots/Demos:
 Provide visual evidence of progress, such as screenshots of new features or short video demos.
 
+![compSciDataTwoScreenshot](https://github.com/user-attachments/assets/39892645-bce1-4e92-b8c2-6677ef59eb7c)
 
-
+![compSciDataScreenshot](https://github.com/user-attachments/assets/ce9fc2d3-f6f3-480f-a6a8-4e2c675b6708)
 
 2. Mentorship Analysis
 Mentor Contact Reflection:
-My mentor gave me intial ideas for running my desktop remotely instead of actually 
+
+My mentor gave me intial ideas for running my desktop remotely instead of actually installing the program on the school computer or chromebook. However, my mentor also helped me refine and pick my project idea because I asked him for personal suggestions through an email correspondence.
 
 Document any interactions with your mentor this week. What feedback did you receive? How has this feedback helped refine your project?
 Mentor Feedback Implementation:
 Describe how you applied your mentor’s advice. Were there any challenges in implementing this feedback? How did you address them?
-I initially tried to download software, but my mentor told me that if I have Windows 10 pro at home I can use a built-in feature to remotely access my desktop.
+
+I initially tried to download software, but my mentor told me that if I have Windows 10 pro at home I can use a built-in feature to remotely access my desktop. However, it didn't matter in the end because the school does not allow remote access through software, only web-based remote access. This being said, I realized I needed to use web-based remote access and a student helped me out and I made it work.
 
 
 Next Question for Mentor:
@@ -267,38 +277,49 @@ I want to ask my mentor next week if there are any resources I can use to help m
 
 3. Timeline Analysis
 Completed Tasks:
+
 -Setup remote desktop for working and doing a walkthrough to my project
+
 -Setup virtual machine with 64-bit Linux OS
+
 -Created .txt files that contains random lines of code
+
 -Started Linux Script in Virtual Machine
 
 
 Summarize your accomplishments since the last submission, especially focusing on the features or milestones reached.
-Pending Tasks: Add linux script code for MVP
+Pending Tasks: Add linux script code for MVP to return boolean if data has been changed.
 
 
 List what remains to be completed, along with any blockers preventing progress. This includes tasks needed to finish the MVP.
 Updated Timeline:
-I want to finish a prelminary linux script that will include
+
+I want to finish a prelminary linux script that will include a return boolean that will evaluate the similarity of the old data compared to the changed data.
 Adjust your overall project timeline based on the progress made this week. Include a plan for how you will stay on track for the MVP submission on 11/1.
+
 MVP Progress & Plan
+Now that I have gotten the remote desktop to work I am able to spend more class time working on my actual project instead of diagnosing problems along the way. This being said, I will have the next two weeks in class to finish my script and provided I utilize my time in class, I will be able to finish it and have more than enough time to test it as well.
 
 
 
+4.MVP Progress & Plan 
 
-
-
-
-<p>4.MVP Progress & Plan 
     Core Features Expected in the MVP:
     Provide a brief description of the key features that you plan to have working by 11/1 for your Minimal Viable Product (MVP).
     Explain any challenges you foresee in implementing these features and how you plan to overcome them.
-    I want to implement a Linux script that a user can run to check if there have been changes to data in a folder.  
+    
+    I want to implement a Linux script that a user can run to check if there have been changes to data in a folder. 
+    For example, it will run a script using what the data in a file was and compare it to what it currently is and it 
+    will determine if it is different. It will initially only return a boolean of true/false whether or not the data in a file
+    has been changed.
     Bug Report:
+    
     Document any known bugs or issues that need to be addressed before the MVP submission. Provide a plan for resolving these.
-    There is a bug where it does not allow me to make sure
+    I have not had any issues yet, however if I have any issues during the next week when preparing my MVP, I will address those
+    in the log.
+    
     Testing Plan:
     Describe how you plan to test the MVP in the coming weeks. Include details on peer testing or feedback you’ll seek.
-    I want to test my MVP by logging in remotely to my home computer from the computer at school and opening virtualBox. Then, I will go into my virtual machine makes changes 
-    to a file and then a message of some sort will be sent letting the user know that changes have been made to the file.</p>
+    I will make changes to a file and then run my script to see if the script recognizes the data has been changed and will return 
+    true and false, and later I might try to add what file has been changed and how.
 
