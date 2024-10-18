@@ -223,9 +223,15 @@ I made changes to the permissions of my computer and I have connected remotely f
 
 Oct. 16th
 
-I went to IT today and talked about the remote connection from the school computer because it did not allow me to connect remotely to my PC.
+I went to IT today and talked about the remote connection from the school computer because it did not allow me to connect remotely to my PC, and I also emailed Mr. Warmbold questions about remote desktop during class.
 
-I 
+I updated my writeups saying how the microsoft remote desktop would not work because of the extensive port setup I would have to do. Also, it would not be secure for the VHHS network.
+
+Oct. 17th
+
+I followed up on my emails to Mr. Warmbold from the previous day and asked about other options for accessing my PC from school and I looked into every option during class (zoho assist, amazon web services, and google cloud.
+
+I got help from a student and they suggested installingParsec on my home computer and then access my computer from a browser which I did so at home and I was able to successfully connect my chromebook remotely to my PC.
 
 Code Changes:
 Specific updates to the codebase, including commit messages that clearly describe what was changed.
@@ -233,7 +239,7 @@ Issues/Resolutions:
 
 Document any bugs or challenges faced during the development process and how they were resolved (or how you plan to resolve them).
 Testing Results: 
-I could not 
+I could not connect remotely from my home desktop to a chromebook or computer at school and I resolved it by asking around for software that I could use and I was able to successfully connect.
 
 Include results from testing any new features or functionality added this week. Highlight any successful tests or issues discovered.
 Screenshots/Demos:
@@ -242,11 +248,9 @@ Provide visual evidence of progress, such as screenshots of new features or shor
 
 
 
-
-
 2. Mentorship Analysis
 Mentor Contact Reflection:
-I have decided to use the built-in microsoft remote desktop, however I have run into problems trying to connect from the school to view my computer at home.
+My mentor gave me intial ideas for running my desktop remotely instead of actually 
 
 Document any interactions with your mentor this week. What feedback did you receive? How has this feedback helped refine your project?
 Mentor Feedback Implementation:
@@ -256,7 +260,7 @@ I initially tried to download software, but my mentor told me that if I have Win
 
 Next Question for Mentor:
 What specific question or area of guidance do you plan to ask your mentor next week? This could involve final tweaks, troubleshooting, or suggestions for improving the user experience.
-I want to ask my mentor next week if there are any resources I can try to use to help me with commands while running my Linux Script. 
+I want to ask my mentor next week if there are any resources I can use to help me with commands while running my Linux Script. 
 
 
 
@@ -270,7 +274,8 @@ Completed Tasks:
 
 
 Summarize your accomplishments since the last submission, especially focusing on the features or milestones reached.
-Pending Tasks: Adding features that can detect changes in data. 
+Pending Tasks: Add linux script code for MVP
+
 
 List what remains to be completed, along with any blockers preventing progress. This includes tasks needed to finish the MVP.
 Updated Timeline:
@@ -288,15 +293,12 @@ MVP Progress & Plan
     Core Features Expected in the MVP:
     Provide a brief description of the key features that you plan to have working by 11/1 for your Minimal Viable Product (MVP).
     Explain any challenges you foresee in implementing these features and how you plan to overcome them.
-    I want to implement a linux script that a user can run to check if there have been changes to data the computer 
-    
+    I want to implement a Linux script that a user can run to check if there have been changes to data in a folder.  
     Bug Report:
     Document any known bugs or issues that need to be addressed before the MVP submission. Provide a plan for resolving these.
     There is a bug where it does not allow me to make sure
-    
     Testing Plan:
     Describe how you plan to test the MVP in the coming weeks. Include details on peer testing or feedback you’ll seek.
-    
     I want to test my MVP by logging in remotely to my home computer from the computer at school and opening virtualBox. Then, I will go into my virtual machine makes changes 
     to a file and then a message of some sort will be sent letting the user know that changes have been made to the file.</p>
 
