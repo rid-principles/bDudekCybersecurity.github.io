@@ -323,3 +323,45 @@ Now that I have gotten the remote desktop to work I am able to spend more class 
     I will make changes to a file and then run my script to see if the script recognizes the data has been changed and will return 
     true and false, and later I might try to add what file has been changed and how.
 
+Unit 1: Research Plan for a Programming Semester Project 
+Unit 2: Initial Development and Prototyping
+Unit 3: Project Creation and Documentation
+Unit 4: Path 1: Learning Focus / Path 2: Project Development Focus
+Unit 5: Path 1: Learning + Applying Focus / Path 2: Project Development Focus
+Unit 6: Path Convergence
+Unit 7: Project Refinement 
+Unit 8: Project MVP Prep
+Unit 9: MVP Finalization and Testing (Due: 10/28)(See below)
+Objective:
+By the end of this week, your MVP should be nearly complete and tested. You'll also need to be well-prepared for the demo and submission on 11/1. The focus will be on finalizing core features, conducting thorough testing, and implementing feedback from peers and mentors.
+Code Refinement and Final Feature Adjustments
+Core Feature Refinement: Focus on polishing your core features. Prioritize resolving any major issues affecting usability.
+Last-Minute Improvements: Allocate time for final adjustments to features or functionality that are nearly complete.
+Deliverables:
+Feature Checklist Update: Create an updated checklist of what’s done and what needs final refinement for the MVP.
+Daily Contribution Log: Continue logging contributions and improvements.
+
+Peer Testing and Feedback Collection
+Peer Testing: Participate in peer testing sessions by demoing your MVP to classmates. Focus on testing usability, finding bugs, and offering feedback on any confusing or underdeveloped areas.
+Bug Discovery: Document all bugs or issues encountered during peer testing.
+Zoe-Doesn’t keep track of the amount of things that are still in stock for the nonprofit.
+You have to press go to checkout multiple times before actually going there. 
+Ben-Is not easy for the user to read and understand what has occurred to the files.
+I will try to add
+Deliverables:
+Bug List and Feedback Summary: Create a list of discovered bugs and any feedback received from peers. Include a plan for addressing critical bugs by 11/1.
+
+
+Mentor Check-In and Testing Refinement
+Mentor Contact: Reach out to your mentor with any final questions. Seek guidance on unresolved issues or feedback on your progress.
+Testing Focus: Refine your testing process, including testing edge cases and addressing critical bugs found during peer testing.
+Deliverables:
+Mentor Feedback Reflection: Document the advice you received from your mentor and how you plan to implement it.
+Bug Fixes Progress: Provide updates on which bugs were fixed and which ones remain as blockers.
+
+Final Testing and Documentation Prep
+Final Testing: Conduct final rounds of testing for critical features to ensure the MVP is functional for the demo.
+Documentation Review: Finalize your README or project documentation for the MVP submission. Ensure that setup instructions and feature descriptions are clear.
+Deliverables:
+Testing Summary: Include a final summary of testing results, focusing on successful tests and remaining issues (if any).
+Documentation Submission: Ensure all documentation, including setup instructions, is finalized and ready for submission on 11/1.
