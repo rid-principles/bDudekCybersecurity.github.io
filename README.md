@@ -58,6 +58,7 @@ I plan to keep track of the topics I have learned through Cybrary and ISC2, and 
 
 
 **4.  Develop a Project Timeline**
+
 **Objective: Create a timeline to manage your work throughout the semester.**
 **Steps:**
 
@@ -327,25 +328,43 @@ Unit 9: MVP Finalization and Testing (Due: 10/28)(See below)
 Objective:
 By the end of this week, your MVP should be nearly complete and tested. You'll also need to be well-prepared for the demo and submission on 11/1. The focus will be on finalizing core features, conducting thorough testing, and implementing feedback from peers and mentors.
 Code Refinement and Final Feature Adjustments
+-My project will tell the user about whether or not there are duplicate text files on the user's system.
 Core Feature Refinement: Focus on polishing your core features. Prioritize resolving any major issues affecting usability.
 Last-Minute Improvements: Allocate time for final adjustments to features or functionality that are nearly complete.
 Deliverables:
 Feature Checklist Update: Create an updated checklist of what’s done and what needs final refinement for the MVP.
 Checklist: 
 -Loops for testing
+-Variables and exported
+-if statements for testing
+I still need to:
+Setup parameters correctly
+Clean up output a little more
 Daily Contribution Log: Continue logging contributions and improvements.
+
+Oct. 21
+-
+Oct. 22
+-
+Oct. 23
+-
+Oct. 24
+-
+Oct. 25
+-
+
 
 Peer Testing and Feedback Collection
 Peer Testing: Participate in peer testing sessions by demoing your MVP to classmates. Focus on testing usability, finding bugs, and offering feedback on any confusing or underdeveloped areas.
 Bug Discovery: Document all bugs or issues encountered during peer testing.
-Zoe-Web page doesn’t keep track of the amount of things that are still in stock for the nonprofit it is being made for.
+Feedback for Zoe-Web page doesn’t keep track of the amount of things that are still in stock for the nonprofit it is being made for.
 You have to press go to checkout multiple times before actually going there, the total is not correct at the end.
-Ben-Is not easy for the user to read and understand what changes have occurred to the files.
+Feedback for Ben-It is not easy for the user to read and understand what changes have occurred to the files.
 I need to include more messages to the user about which files are the same and which files are different for the script to be more user friendly.
 Deliverables:
 Bug List and Feedback Summary: Create a list of discovered bugs and any feedback received from peers. Include a plan for addressing critical bugs by 11/1.
--I included more echo files that can give the user feedback and information on each file and its relation to the other text files in the system.
--
+-I included more echo files that can give the user feedback and information on each file and its relation to the other text files in the system in my if statements.
+-The files are timestamped so the user can see exactly when the last edits were made to the file.
 
 
 Mentor Check-In and Testing Refinement
@@ -353,14 +372,21 @@ Mentor Contact: Reach out to your mentor with any final questions. Seek guidance
 Testing Focus: Refine your testing process, including testing edge cases and addressing critical bugs found during peer testing.
 Deliverables:
 Mentor Feedback Reflection: Document the advice you received from your mentor and how you plan to implement it.
-- I asked my mentor for help on how I could try to implement searching for whether or not files are the same or not using a command called grep, however my mentor directed me to a command called diff which essentially evaluates an entire text file as a whole compared to a another text file and 
+- I asked my mentor for help on how I could try to implement searching for whether or not files are the same or not using a command called grep, however my mentor directed me to a command called diff which essentially evaluates an entire text file as a whole compared to another text file instead.
+- I also asked my mentor if there are ways I can compare a file that was edited to its original version and John helped me out with a checker if statement to check the output of the previous diff command I used.
 Bug Fixes Progress: Provide updates on which bugs were fixed and which ones remain as blockers.
+I was able to include a message at the beginning that is describing what the purpose of the script is and what it will do.
+I was able to see timestamps of the files and send it back to the user as information
+I still have a bug where it returns a true or false statement after every time it checks a file instead of after it is done comparing 1 file to the other 3.
+My script still checks the data of the text file with itself, it should only check 12 times if there are 4 text files on the system.
 
 Final Testing and Documentation Prep
 Final Testing: Conduct final rounds of testing for critical features to ensure the MVP is functional for the demo.
 Documentation Review: Finalize your README or project documentation for the MVP submission. Ensure that setup instructions and feature descriptions are clear.
 Deliverables:
+![compSciMVPic](https://github.com/user-attachments/assets/41f1054f-5af1-4ec7-ae3a-19994055bfac)
 Testing Summary: Include a final summary of testing results, focusing on successful tests and remaining issues (if any).
-I was able to successfully test and access all of the files I wanted to use in
+I was able to successfully test and access all of the files I wanted to use in my project, and all my loops and if statements worked because in total I got 16 outputs which means every file was checked. My goal is to eliminate 4 times they are checked with themselves to be more efficient and give the user a better experience interpreting the script output. Overall, it was a successful test and I know exactly what I need to work on and get done before Friday.
 Documentation Submission: Ensure all documentation, including setup instructions, is finalized and ready for submission on 11/1.
 Setup Instructions for project: 
+1. Use link to parsec:
