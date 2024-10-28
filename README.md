@@ -343,15 +343,16 @@ Clean up output a little more
 Daily Contribution Log: Continue logging contributions and improvements.
 
 Oct. 21
--
+-I created my general outine for loops and if statements I wanted to include in my linux script.
+-Also, I was able to format all the loops and if statements correctly for the loop to run 16 times and return the correct statement.
 Oct. 22
--
+-I emailed John with a 
 Oct. 23
--
+-I worked on the peer editing with Zoe and I got useful feedback that I put in my 
 Oct. 24
 -
 Oct. 25
--
+- I did my testing 
 
 
 Peer Testing and Feedback Collection
