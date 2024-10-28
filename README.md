@@ -345,18 +345,22 @@ Daily Contribution Log: Continue logging contributions and improvements.
 Oct. 21
 -I created my general outine for loops and if statements I wanted to include in my linux script.
 -Also, I was able to format all the loops and if statements correctly using the loops to run 16 times and return the correct statement.
+
 Oct. 22
 -I emailed John with a questions about using the grep command and how I could utilize it to compare files in my project, however he let me know that I can use commands such as diff, cmp, or comm to compare one file to another instead.
 I applied this into my project and successfully used my loops and if statements to compare files using the diff command instead of the grep command.
+
 Oct. 23
 -I worked on the peer editing with Zoe and I got useful feedback and afterwards I included the feedback in my writeups for the week
 -I worked on my writeups for the week after peer testing and I what I worked on so far, and what I still had to do.
+
 Oct. 24
 -I emailed John about whether or not there are ways to compare the old version of a file with a new version of the file, and John sent me a very useful command checker that I could use with diff to evaluate the diff command and echo statements based on the result.
 -I implemented the command checker into my code and I was able to get different outputs based on the relations the files had with each other.
+
 Oct. 25
 - I did my testing and I found I was very successful in the things I had done this week because I found that I only had two bugs to fix before the MVP submission because I need to create a more clear echo statement for the user and I need to pass the files as parameters using the file types as a parameter for the loop.
-- Overall, I fixed a lot of things this week that have greatly brought me closer to the MVP submission and demo on Friday
+- Overall, I fixed a lot of things this week that have greatly brought me closer to the MVP submission and demo on Friday, but I still have things I need to fix beforehand.
 
 
 Peer Testing and Feedback Collection
