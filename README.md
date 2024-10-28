@@ -331,6 +331,8 @@ Core Feature Refinement: Focus on polishing your core features. Prioritize resol
 Last-Minute Improvements: Allocate time for final adjustments to features or functionality that are nearly complete.
 Deliverables:
 Feature Checklist Update: Create an updated checklist of what’s done and what needs final refinement for the MVP.
+Checklist: 
+-Loops for testing
 Daily Contribution Log: Continue logging contributions and improvements.
 
 Peer Testing and Feedback Collection
@@ -339,10 +341,11 @@ Bug Discovery: Document all bugs or issues encountered during peer testing.
 Zoe-Web page doesn’t keep track of the amount of things that are still in stock for the nonprofit it is being made for.
 You have to press go to checkout multiple times before actually going there, the total is not correct at the end.
 Ben-Is not easy for the user to read and understand what changes have occurred to the files.
-I need to include more messages to the user 
-I will try to add
+I need to include more messages to the user about which files are the same and which files are different for the script to be more user friendly.
 Deliverables:
 Bug List and Feedback Summary: Create a list of discovered bugs and any feedback received from peers. Include a plan for addressing critical bugs by 11/1.
+-I included more echo files that can give the user feedback and information on each file and its relation to the other text files in the system.
+-
 
 
 Mentor Check-In and Testing Refinement
@@ -350,6 +353,7 @@ Mentor Contact: Reach out to your mentor with any final questions. Seek guidance
 Testing Focus: Refine your testing process, including testing edge cases and addressing critical bugs found during peer testing.
 Deliverables:
 Mentor Feedback Reflection: Document the advice you received from your mentor and how you plan to implement it.
+- I asked my mentor for help on how I could try to implement searching for whether or not files are the same or not using a command called grep, however my mentor directed me to a command called diff which essentially evaluates an entire text file as a whole compared to a another text file and 
 Bug Fixes Progress: Provide updates on which bugs were fixed and which ones remain as blockers.
 
 Final Testing and Documentation Prep
@@ -357,4 +361,6 @@ Final Testing: Conduct final rounds of testing for critical features to ensure t
 Documentation Review: Finalize your README or project documentation for the MVP submission. Ensure that setup instructions and feature descriptions are clear.
 Deliverables:
 Testing Summary: Include a final summary of testing results, focusing on successful tests and remaining issues (if any).
+I was able to successfully test and access all of the files I wanted to use in
 Documentation Submission: Ensure all documentation, including setup instructions, is finalized and ready for submission on 11/1.
+Setup Instructions for project: 
