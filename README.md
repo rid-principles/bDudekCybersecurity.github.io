@@ -342,6 +342,8 @@ Setup parameters correctly
 Clean up output a little more
 Daily Contribution Log: Continue logging contributions and improvements.
 
+![Screenshot 2024-10-28 9 33 30 AM](https://github.com/user-attachments/assets/9282c4fa-12d9-49c5-8629-dc30270c63fd)
+
 Oct. 21
 -I created my general outine for loops and if statements I wanted to include in my linux script.
 -Also, I was able to format all the loops and if statements correctly using the loops to run 16 times and return the correct statement.
@@ -398,4 +400,9 @@ Testing Summary: Include a final summary of testing results, focusing on success
 I was able to successfully test and access all of the files I wanted to use in my project, and all my loops and if statements worked because in total I got 16 outputs which means every file was checked. My goal is to eliminate 4 times they are checked with themselves to be more efficient and give the user a better experience interpreting the script output. Overall, it was a successful test and I know exactly what I need to work on and get done before Friday.
 Documentation Submission: Ensure all documentation, including setup instructions, is finalized and ready for submission on 11/1.
 Setup Instructions for project: 
-1. Use link to parsec:
+1. Use link to parsec: web.parsec.app
+2. Right click and open in terminal
+3. Once in the terminal, run the script by typing "./compSciScript.sh" 
+4. Look at the output and see what files are similar and which ones are different
+5. Go into myFiles and change text files or make one identical to another and run the script using the same command and see what has changed and what files are the same
+
