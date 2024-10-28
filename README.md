@@ -355,7 +355,8 @@ Oct. 24
 -I emailed John about whether or not there are ways to compare the old version of a file with a new version of the file, and John sent me a very useful command checker that I could use with diff to evaluate the diff command and echo statements based on the result.
 -I implemented the command checker into my code and I was able to get different outputs based on the relations the files had with each other.
 Oct. 25
-- I did my testing and I found I was very successful in the things I had done this week because I found that I only had two bugs to fix before the MVP submission because I need to create a more clear echo statement for the user and I need to 
+- I did my testing and I found I was very successful in the things I had done this week because I found that I only had two bugs to fix before the MVP submission because I need to create a more clear echo statement for the user and I need to pass the files as parameters using the file types as a parameter for the loop.
+- Overall, I fixed a lot of things this week that have greatly brought me closer to the MVP submission and demo on Friday
 
 
 Peer Testing and Feedback Collection
