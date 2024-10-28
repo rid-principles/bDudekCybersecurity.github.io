@@ -344,9 +344,9 @@ Daily Contribution Log: Continue logging contributions and improvements.
 
 Oct. 21
 -I created my general outine for loops and if statements I wanted to include in my linux script.
--Also, I was able to format all the loops and if statements correctly for the loop to run 16 times and return the correct statement.
+-Also, I was able to format all the loops and if statements correctly using the loops to run 16 times and return the correct statement.
 Oct. 22
--I emailed John with a 
+-I emailed John with a questions about using the grep command and how I could utilize it to compare files in my project, however he let me know 
 Oct. 23
 -I worked on the peer editing with Zoe and I got useful feedback that I put in my 
 Oct. 24
