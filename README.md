@@ -430,7 +430,8 @@ Features to implement for final submission
  
 	-If user answers yes, another prompt will ask the user which duplicate of the file they want to delete. 
   
-	-Fix errors that can occur while looping through files that don't exist once the value of comparingFile gets higher than the length of the array-1.
+	-Fix errors that can occur while looping through files that don't exist once the 
+ 	value of comparingFile gets higher than the length of the array-1.
    
 
 I have 5 text files on my ubuntu system and they all have been randomized and I modified files 1 and 4 so they would be the same.
