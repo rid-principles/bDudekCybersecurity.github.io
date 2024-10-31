@@ -406,7 +406,7 @@ Setup Instructions for project:
 4. Look at the output and see what files are similar and which ones are different
 5. Go into myFiles and change text files or make one identical to another and run the script using the same command and see what has changed and what files are the same
 
-Unit  10 Submission:
+# Unit 10
 
 My project's overall goal is to use my script to evaluate whether text files are duplicates of each other. I want to solve the problem of not being able to check what text files are the same on a Linux system using ubuntu because there is no one command to evaluate a directory for duplicate text files. 
 
