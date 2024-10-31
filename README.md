@@ -412,7 +412,8 @@ My project's overall goal is to use my script to evaluate whether text files are
 
 Checklist of primary features implemented: 
 
-Allowing the addition of new text files at any time to the system and they will be evaluated compared to the other files when the script is run again. 
+Allowing the addition of new text files at any time to the system and they will 
+be evaluated compared to the other files when the script is run again. 
 
 	-Using two for loops with a staggered starting point in the script of my comparingFile allows for evaluation of all the text file with one another.
 
