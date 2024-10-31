@@ -415,7 +415,7 @@ Checklist of primary features implemented:
 Allowing the addition of new text files at any time to the system and they will be evaluated compared to the other files when the script is run again. 
 
 	-Using two for loops with a staggered starting point in the script of my 
- -comparingFile allows for evaluation of all the text file with one another.
+	comparingFile allows for evaluation of all the text file with one another.
 
 Outputting the differences between the files, if they are not evaluated as duplicates, the names of the files, and the date of when the last time the .txt file was last modified
 
