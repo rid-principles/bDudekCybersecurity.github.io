@@ -412,28 +412,40 @@ My project's overall goal is to use my script to evaluate whether text files are
 Checklist of primary features implemented: 
 
 Allowing the addition of new text files at any time to the system and they will be evaluated compared to the other files when the script is run again. 
+
 	-Using two for loops with a staggered starting point in the script of my comparingFile allows for evaluation of all the text file with one another.
 
 Outputting the differences between the files, if they are not evaluated as duplicates, the names of the files, and the date of when the last time the .txt file was last modified
+
 	-Use of the diff command and the checker statement that sees if the two files contain different text.
 
 Outputting to the user the name of both files that have been evaluated as duplicates of each other
+
 	-Use of if statements after the diff evaluation that access the variables' values to output back to the user.
 
 Features to implement for final submission 
+
 	-Option for user to delete duplicate files using a user-friendly prompt after the script has run
+ 
  	-If user answers yes, another prompt will ask the user which duplicate of the file they want to delete. 
+  
   	-Fix errors that can occur while looping through files that don't exist once the value of comparingFile gets higher than the length of the array-1.
+   
 
 I have 5 text files on my ubuntu system and they all have been randomized and I modified files 1 and 4 so they would be the same.
 
 FileOne.txt: Duplicate of 4
+
 FileTwo.txt: No duplicates
+
 FileThree.txt: No duplicates
+
 FileFour.txt: Duplicate of 1
+
 FileFive.txt: No duplicates
 
 Script: 
+
 Located on my Virtual Ubuntu system, I will show the code during the presentation briefly to showcase the loops.
 
 
