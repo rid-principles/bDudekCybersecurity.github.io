@@ -435,7 +435,7 @@ Features to implement for final submission
  	value of comparingFile gets higher than the length of the array-1.
 
         -I might add other features as I move closer to the final project submission, if this does 
-	occur I will make sure to document those features thouroughly.
+	occur I will make sure to document those features thouroughly in my final submission.
    
 
 I have 5 text files on my ubuntu system and they all have been randomized and I modified files 1 and 4 so they would be the same.
