@@ -440,15 +440,15 @@ Features to implement for final submission
 
 I have 5 text files on my ubuntu system and they all have been randomized and I modified files 1 and 4 so they would be the same.
 
-FileOne.txt: Duplicate of 4
+FileOne.txt: Duplicate jargon of 4
 
 FileTwo.txt: No duplicates
 
-FileThree.txt: No duplicates
+FileThree.txt: Duplicate "normal" text of 5
 
-FileFour.txt: Duplicate of 1
+FileFour.txt: Duplicate jargon of 1
 
-FileFive.txt: No duplicates
+FileFive.txt: Duplicate "normal" text of 3
 
 Script: 
 
