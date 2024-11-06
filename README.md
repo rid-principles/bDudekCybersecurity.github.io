@@ -454,7 +454,31 @@ Script:
 
 Located on my Virtual Ubuntu system, I will show the code during the presentation briefly to showcase the loops.
 
+# Unit 11
+
+-My mentor suggested that I implement a feature to make my project have a more viable problem to solve using my script and advance my project. My mentor suggested that I use the script to parse through fake emails to determine if they contain any PII (Personal Identifiable Information) that generally should not be contained inside an email. For example, an email from an employee to a client should not contain their social security number.
+
+-My mentor suggested that I make the information returned by the script more valuable to the average user. 
+
+Action Plan:
+
+Week 1: Create all the files and folders necessary for the 
+Week 2
+Week 3
+Week 4
+Week 5
+
+Daily Log:
+Nov. 6th
+Worked on writeups after meeeting with my mentor Monday (20 min)
+I created a new text file that would contain employee's social security numbers and the names that are associated with them (5 min)
+I made an outline for what I wanted my script to do for my final project (down below) (20 min)
+
+Use current structure and utilize grep to evaluate each file for whether or not PII is contained in the email file of every employee in my company.
+
+if statement for the user at the very end to answer whether they would like to log the email in a flagged folder section or move onto the next email if the issue has already been resolved.
+The file will named and stored in a folder on the same directory if the user selects yes, and if no it asks the user for the next file that contains PII, and if no other files contain PII the script terminates 
+After all the files that the user has decided need to be stored they can also decide whether they want to view the entire log to get a rundown of what information has been shared through emails.
 
 
-  
 
