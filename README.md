@@ -462,11 +462,17 @@ Located on my Virtual Ubuntu system, I will show the code during the presentatio
 
 Action Plan:
 
-Week 1: Create all the files and folders necessary for the 
+Week 1: Create all the files and folders necessary for the script to run through all of the files and cross-reference it with the SSN's in the employeeList file. Create general structure for the entire script 
 Week 2
 Week 3
 Week 4
 Week 5
+
+emailFive.txt: Contains the SSN of one of the people in the company 
+emailFour.txt: Does not contain any social security numbers
+emailOne.txt: Contains a random SSN that is not anyone's in the company
+emailThree.txt: Duplicate of emailOne
+emailTwo.txt: Duplicate of emailFive
 
 Daily Log:
 Nov. 6th
@@ -474,8 +480,14 @@ Worked on writeups after meeeting with my mentor Monday (20 min)
 I created a new text file that would contain employee's social security numbers and the names that are associated with them (5 min)
 I made an outline for what I wanted my script to do for my final project (down below) (20 min)
 
-Use current structure and utilize grep to evaluate each file for whether or not PII is contained in the email file of every employee in my company.
+Nov. 7th 
+Worked on creating 5 fake emails to use in the script to contain social security numbers (20 min)
+I worked on implementing the grep command into my script to search for the social security numbers from the employeeList file within all of the emails (25 min)
+I ran into the issue of t
 
+
+Use current structure and utilize grep to evaluate each file for whether or not PII is contained in the email file of every employee in my company.
+Check if the emails are the same and then return to the user how there is a high chance the email has been forwarded or copied and give option to report or flag as well
 if statement for the user at the very end to answer whether they would like to log the email in a flagged folder section or move onto the next email if the issue has already been resolved.
 The file will named and stored in a folder on the same directory if the user selects yes, and if no it asks the user for the next file that contains PII, and if no other files contain PII the script terminates 
 After all the files that the user has decided need to be stored they can also decide whether they want to view the entire log to get a rundown of what information has been shared through emails.
