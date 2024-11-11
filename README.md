@@ -532,6 +532,14 @@ I worked on my writeups for my project to describe what I hope to accomplish nex
 
 I had good success with the read command today because of the way I was able to implement the read command to ask the user for input.
 
+Nov 11th 
+
+I commented out the second part of the loop which contains the diff command to work on the making the grep command work with the fake emails and the employeeList file. (45 min)
+
+I had trouble using a command checker or something that can evaluate what the result of the grep command is and how I can use that information to add a file containing an SSN to my flaggedList array.
+
+I might try use an if statement to check whether or not the grep command found the SSN of any employee in any file.
+
 Outline for final project:
 
 run grep
