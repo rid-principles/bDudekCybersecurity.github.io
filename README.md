@@ -462,49 +462,96 @@ Located on my Virtual Ubuntu system, I will show the code during the presentatio
 
 Action Plan:
 
-Week 1: Create all the files and folders necessary for the script to run through all of the files and cross-reference it with the SSN's in the employeeList file. Create general structure for the entire script using grep and diff in conujunction. (Create fake email fikeles
+Week 1: Create all the files and folders necessary for the script to run through all of the files and cross-reference it with the SSN's in the employeeList file. Create general structure for the entire script using grep and diff in conujunction. 
 
-Week 2: Work on implementing the grep command completely into the first part of my script and 
-Week 3
-Week 4
-Week 5: Add final touches and test 
+(Wednesday:Work on writeups after meeting with mentor and outline for script) 
+
+(Thursday: Create fake email files and play around with the grep command and the types of extensions in my script) 
+
+(Friday: Try to implement the read command to prompt the user for input within the script)
+
+Week 2: Work on implementing the grep command completely into the first part of my script and adding files that contain SSN from the organization into an array (Monday-Wednesday)
+
+Make sure the loop in the first part of the script checks all of the files I need it to check and debug (Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly (Friday)
+
+Week 3: Work on refining my MVP submission to work along with the grep part of the script (Monday-Wednesday)
+
+Check the second loop is adding the duplicates or forwarded emails to the same array from the first part of the script (Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
+
+Week 4: Work on the prompts for the user at the end of each part of the script to give the user an option to add each file that contains a SSN from the company or a duplicate email that has been forwarded using the read command (Monday-Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
+
+Week 5: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
+
+Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
 
 emailFive.txt: Contains the SSN of one of the people in the company 
+
 emailFour.txt: Does not contain any social security numbers
+
 emailOne.txt: Contains a random SSN that is not anyone's in the company
+
 emailThree.txt: Duplicate of emailOne
+
 emailTwo.txt: Duplicate of emailFive
 
 Daily Log:
+
 Nov. 6th
+
 Worked on writeups after meeeting with my mentor Monday (20 min)
+
 I created a new text file that would contain employee's social security numbers and the names that are associated with them (5 min)
+
 I made an outline for what I wanted my script to do for my final project (down below) (20 min)
+
 I am not exactly sure if I want to include the loop to check for the duplicates before or after the script checks for the social security number within the files.
+
 I need to figure out the order tomorrow to finish my outline.
 
 Nov. 7th 
+
 Worked on creating 5 fake emails to use in the script to contain social security numbers (20 min)
+
 I worked on implementing the grep command into my script to search for the social security numbers from the employeeList file within all of the emails (25 min)
+
 I ran into the issue of how I want implement the same array in both loops to add all the necessary files that are to be flagged.
+
 I realized today that using the grep command with the proper extension is very efficient at searching each lines of a files recursively for a pattern or keyword.
 
 Nov 8th 
+
 Worked on the user's availability to make decisions based on the running of the script using the read command that can take input(35 min)
+
 I worked on my writeups for my project to describe what I hope to accomplish next week in class and I also want to ask my mentor next week in an email as to how I can try to format the report for the user when it comes time to do this (10 min)
+
 I had good success with the read command today because of the way I was able to implement the read command to ask the user for input.
 
 Outline for final project:
+
 run grep
+
 add ones containing SSN to array
+
 run diff
+
 add ones containing SSN and duplicates to final array to return information to the user in a report format.
 
 Written plan for structure in week 2: 
+
 Use current structure and utilize grep to evaluate each file for whether or not PII is contained in the email file of every employee in my company.
+
 Check if the emails are the same and then return to the user how there is a high chance the email has been forwarded or copied and give option to report or flag as well.
+
 if statement for the user at the very end to answer whether they would like to log the email in a flagged folder section or move onto the next email if the issue has already been resolved.
+
 The file will named and stored in a folder on the same directory if the user selects yes, and if no it asks the user for the next file that contains PII, and if no other files contain PII the script terminates.
+
 After all the files that the user has decided need to be stored they can also decide whether they want to view the entire log to get a rundown of what information has been shared through emails.
 
 
