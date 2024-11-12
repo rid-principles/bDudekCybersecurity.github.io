@@ -562,5 +562,58 @@ The file will named and stored in a folder on the same directory if the user sel
 
 After all the files that the user has decided need to be stored they can also decide whether they want to view the entire log to get a rundown of what information has been shared through emails.
 
+# Unit 12
+
+Timeline Reorganization (Day 1)
+
+I have created all of the files necessary for the script and the planned structure for the grep and the diff part of the script. 
+
+I need to revisit how my diff command will work because I only want it to go through the files that have not yet been flagged through the first part of the script. 
+
+Monday: Work on the timeline reorganization and decide what extension to use with grep to return the files that contain social security numbers 
+
+Tuesday: Change loops to integrate using the employeeList to check every single other file.
+
+Wednesday: Test using all of the email files and debug if necessary.
+
+Thursday: Check the second loop is adding the duplicates or forwarded emails to the same array from the first part of the script
+
+Friday: Finish writeups and plan for how I need to fix the diff part of my script to work with the grep part. 
 
 
+
+Week 1: Create all the files and folders necessary for the script to run through all of the files and cross-reference it with the SSN's in the employeeList file. Create general structure for the entire script using grep and diff in conujunction. 
+
+(Wednesday:Work on writeups after meeting with mentor and outline for script) 
+
+(Thursday: Create fake email files and play around with the grep command and the types of extensions in my script) 
+
+(Friday: Try to implement the read command to prompt the user for input within the script)
+
+Week 2: Work on implementing the grep command completely into the first part of my script and adding files that contain SSN from the organization into an array (Monday-Wednesday)
+
+Make sure the loop in the first part of the script checks all of the files I need it to check and debug (Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly (Friday)
+
+Week 3: Work on refining my MVP submission to work along with the grep part of the script (Monday-Wednesday)
+
+Check the second loop is adding the duplicates or forwarded emails to the same array from the first part of the script (Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
+
+Week 4: Work on the prompts for the user at the end of each part of the script to give the user an option to add each file that contains a SSN from the company or a duplicate email that has been forwarded using the read command (Monday-Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
+
+Week 5: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
+
+Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
+
+2. My mentor suggested I take my project to the next level and use my script to check for fake employees SSN's leaked in fake company emails.
+
+3. Daily Log 
+
+Monday Nov. 12th
+
+Worked on the timeline reorganization and decided I did not need to use any extension with the grep command because I only needed to access the text version of the file and compare it with the employeeList and it will return 0 if there are any instances of any social security number in the fake email.
