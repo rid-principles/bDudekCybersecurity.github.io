@@ -620,5 +620,3 @@ Worked on the timeline reorganization and decided I did not need to use any exte
 
 ![compSciMVPic](https://github.com/user-attachments/assets/41f1054f-5af1-4ec7-ae3a-19994055bfac)
 
-![compSciMVPic]((https://github.com/user-attachments/assets/41f1054f-5af1-4ec7-ae3a-19994055bfac))
-
