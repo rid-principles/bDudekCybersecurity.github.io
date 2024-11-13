@@ -618,5 +618,7 @@ Monday Nov. 12th
 
 Worked on the timeline reorganization and decided I did not need to use any extension with the grep command because I only needed to access the text version of the file and compare it with the employeeList and it will return 0 if there are any instances of any social security number in the fake email.
 
-![compSciMVPic](![compSciMVPic](https://github.com/user-attachments/assets/41f1054f-5af1-4ec7-ae3a-19994055bfac))
+![compSciMVPic](https://github.com/user-attachments/assets/41f1054f-5af1-4ec7-ae3a-19994055bfac)
+
+![compSciMVPic]((https://github.com/user-attachments/assets/41f1054f-5af1-4ec7-ae3a-19994055bfac))
 
