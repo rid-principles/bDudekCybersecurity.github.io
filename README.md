@@ -580,8 +580,6 @@ Thursday: Check the second loop is adding the duplicates or forwarded emails to 
 
 Friday: Finish writeups and plan for how I need to fix the diff part of my script to work with the grep part. 
 
-
-
 Week 1: Create all the files and folders necessary for the script to run through all of the files and cross-reference it with the SSN's in the employeeList file. Create general structure for the entire script using grep and diff in conujunction. 
 
 (Wednesday:Work on writeups after meeting with mentor and outline for script) 
@@ -610,13 +608,29 @@ Week 5: Run using the test cases below and do a bug report to make address issue
 
 Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
 
-2. My mentor suggested I take my project to the next level and use my script to check for fake employees SSN's leaked in fake company emails.
+2. My mentor suggested I take my project to the next level and use my script to check for employees SSN's leaked in company emails. I will try to implement the grep command along with the diff command to first check if the file contains a SSN from a member of the organization to then check if there are any emails that could be exactly like it to see if it has been forwarded to anyone else. Afterwards, the user can add the emails to a flagged list at their own discretion and choose to view a flaggedList report based on whether or not there were any things added to the list while the script was running. 
 
-3. Daily Log 
+4. Daily Log 
 
-Monday Nov. 12th
+Monday Nov. 11th
 
-Worked on the timeline reorganization and decided I did not need to use any extension with the grep command because I only needed to access the text version of the file and compare it with the employeeList and it will return 0 if there are any instances of any social security number in the fake email.
+Worked on the timeline reorganization(20 min) and decided I did not need to use any extension with the grep command because I only needed to access the text version of the file and compare it with the employeeList and it will return 0 if there are any instances of any social security number in the fake email.
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-12%2011.17.29%20AM.png)
+
+Tuesday Nov. 12th
+Tried to implemen t
+
+Wednesday Nov. 13th
+
+Thursday Nov. 14th
+I tried to apply the -w extension to only search for entire words within my script because I thought this was causing the problem and allowing emails that did not contain SSNs from the 
+
+Friday Nov. 15th
+
+You have to use the -q extension with grep to make sure the output of the command is a number and not a string of identical strings or lines(15 min)
+You can also combine commands, for example, you can do grep -q -w which will silence the output of grep and also search for entire words only which is what I will use in my script. 
+I applied this process to my script and it has worked correctly because it has only identified the emails containing the SSN's of the company workers instead of random SSNs
+
+-
 
