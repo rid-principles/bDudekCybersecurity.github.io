@@ -626,13 +626,16 @@ I adjusted my employeeList file so it would only contain one employee's SSN per 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.20.25%20PM.png)
 
 Wednesday, Nov. 13th
-I started changing my script to include 
+I started changing my script to include read commands in the first part to ask the user if they wanted to 
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-18%207.42.18%20AM.png)
 
 Thursday Nov. 14th
-I took a break from the grep command and tried to apply the read command within the script to prompt the user for input(35 minutes) and I worked on the writeups for this week as well. (10 min)
+I took a break from the grep command and worked on changing my previous part of the script to do check for duplicates of the remaining files that were searched through in the previous part of the script. (40 min)
 
-I was not 
+I also worked on my writeups for the week (5 min) 
 
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-18%207.38.08%20AM.png)
 
 Friday Nov. 15th
 
