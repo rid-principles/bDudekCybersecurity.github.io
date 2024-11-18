@@ -616,7 +616,7 @@ Monday Nov. 11th
 
 Worked on the timeline reorganization(20 min) and I tried not using any extension with the grep command because I only needed to access the text version of the file and compare it with the employeeList and it will return 0 if there are any instances of any social security number in the fake email (25 min).
 
-I was not able to return the correct files that contained the PII of the employees
+I was not able to return the correct files that contained the PII of the employees because I need to use different extensions. I did not take a screenshot today because I only experimented with the extensions with grep and it was very similar to the grep command in Tuesday's iamge.
 
 Tuesday Nov. 12th
 Tried to implement different types of extensions with the grep command to check for the SSN between the employee list and an email (15 min)
