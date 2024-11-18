@@ -626,7 +626,9 @@ I adjusted my employeeList file so it would only contain one employee's SSN per 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.20.25%20PM.png)
 
 Wednesday, Nov. 13th
-I started changing my script to include read commands in the first part to ask the user if they wanted to 
+I started changing my script to include read commands in the first part to ask the user if they want to see the report log and take a look at what is there before running the second part of the script. The idea is to make it as user friendly as possible and I might even inlcude an option for the user to clear the flaggedList of maybe even save it. However, I am not sure how practical saving it as another file would be for my purposes (35 min)
+
+I am learning how to prompt the user for an answer in a specific format so the script does not end on the user side because the user types "Yes" or "y" instead of "yes" (10 min).
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-18%207.42.18%20AM.png)
 
@@ -641,7 +643,7 @@ Friday Nov. 15th
 
 I figured out I have to use the -q extension with grep to make sure the output of the command is a number and not a string of identical strings or lines(15 min)
 I also need to combine commands, for example, you can do grep -q -w which will silence the output of grep and also search for entire words only which is what I will use in my script(10 min).
-I emailed my mentor on help on how to implement the grep command using different extensions and I was able to experiment with the extensions at home to only add the emails containing company PII to the array.(20min)
+I emailed my mentor on help on how to implement the grep command using different extensions and I was able to experiment with the extensions at home to only add the emails containing company PII to the array using a combination of the -q -f extension with grep.(20min)
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
 
