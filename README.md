@@ -625,10 +625,14 @@ I adjusted my employeeList file so it would only contain one employee's SSN per 
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.20.25%20PM.png)
 
-Wednesday Nov. 13th
+Wednesday, Nov. 13th
+I started changing my script to include 
 
 Thursday Nov. 14th
-I tried to apply the -w extension to only search for entire words within my script because I thought this was causing the problem and allowing emails that did not contain SSNs from the company (20 minutes)
+I took a break from the grep command and tried to apply the read command within the script to prompt the user for input(35 minutes) and I worked on the writeups for this week as well. (10 min)
+
+I was not 
+
 
 Friday Nov. 15th
 
