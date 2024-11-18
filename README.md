@@ -618,13 +618,17 @@ Worked on the timeline reorganization(20 min) and I tried not using any extensio
 
 I was not able to return the correct files that contained the PII of the employees
 
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
+
 Tuesday Nov. 12th
 Tried to implement different types of extensions with the grep command to check for the SSN between the employee list and an email (15 min)
 I also researched how the input had to be different depending on the extension of the grep command, and I figured out if I wanted to use grep -q I needed to have a checker statement right after the loop ran. (25 min)
 I adjusted my employeeList file so it would only contain one employee's SSN per line
 
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
 
 
+https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.20.25%20PM.png
 
 Wednesday Nov. 13th
 
@@ -639,6 +643,6 @@ I emailed my mentor on help on how to implement the grep command using different
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
 
-https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png
+
 
 
