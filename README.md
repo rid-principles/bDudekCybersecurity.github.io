@@ -616,12 +616,15 @@ Monday Nov. 11th
 
 Worked on the timeline reorganization(20 min) and I tried not using any extension with the grep command because I only needed to access the text version of the file and compare it with the employeeList and it will return 0 if there are any instances of any social security number in the fake email (25 min).
 
-I was not able to 
-
-![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-12%2011.17.29%20AM.png)
+I was not able to return the correct files that contained the PII of the employees
 
 Tuesday Nov. 12th
-Tried 
+Tried to implement different types of extensions with the grep command to check for the SSN between the employee list and an email (15 min)
+I also researched how the input had to be different depending on the extension of the grep command, and I figured out if I wanted to use grep -q I needed to have a checker statement right after the loop ran. (25 min)
+I adjusted my employeeList file so it would only contain one employee's SSN per line
+
+
+
 
 Wednesday Nov. 13th
 
@@ -633,5 +636,9 @@ Friday Nov. 15th
 I figured out I have to use the -q extension with grep to make sure the output of the command is a number and not a string of identical strings or lines(15 min)
 I also need to combine commands, for example, you can do grep -q -w which will silence the output of grep and also search for entire words only which is what I will use in my script(10 min).
 I emailed my mentor on help on how to implement the grep command using different extensions and I was able to experiment with the extensions at home to only add the emails containing company PII to the array.(20min)
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
+
+https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png
 
 
