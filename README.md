@@ -647,7 +647,11 @@ I emailed my mentor on help on how to implement the grep command using different
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
 
-# Unit 12
+# Unit 13
+
+Schedule
+
+Daily Log:
 
 Monday, Nov. 18th
 
@@ -656,4 +660,8 @@ Uncommented the diff part of the script and take not of what is returned and I w
 Started on the changes needed to make the diff part of the script work (10 min).
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-18%207.59.26%20PM.png)
+
+Tuesday, Nov. 19th
+
+Focused on the read commands in the diff part of my script to parse through incorrect inputs by the user for example if the user inputs "yes" or "Yes" instead of y which is the designated character the script will work with. (35 min) 
 
