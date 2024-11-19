@@ -655,6 +655,5 @@ Focused on the read command in the grep part of the script that can allow the us
 Uncommented the diff part of the script and take not of what is returned and I what I need to fix this week to get all of the flagged files in the report at the end of the script (5 min)
 Started on the changes needed to make the diff part of the script work (10 min).
 
-![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
-
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-18%207.59.26%20PM.png)
 
