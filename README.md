@@ -651,9 +651,10 @@ I emailed my mentor on help on how to implement the grep command using different
 
 Monday, Nov. 18th
 
-Focus on the read command in the grep part of the script that can allow the user to view the report log before the script is over (30 min)
-Uncomment the diff part of the script and take not of what is returned and I what I need to fix this week to get all of the flagged files in the report at the end of the script (5 min)
-Get started on the changes needed to make the diff part of the script work (10 min).
-(Add picture later)
+Focused on the read command in the grep part of the script that can allow the user to view the report log before the script is over (30 min)
+Uncommented the diff part of the script and take not of what is returned and I what I need to fix this week to get all of the flagged files in the report at the end of the script (5 min)
+Started on the changes needed to make the diff part of the script work (10 min).
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-17%2010.09.47%20PM.png)
 
 
