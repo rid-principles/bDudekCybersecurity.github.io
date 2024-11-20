@@ -8,7 +8,6 @@ Research Plan for a Programming Semester Project
 
 I plan to create a website using Github that will have the information I learned through the course at Cybrary and ISC2. There are activities within both courses that will allow me to apply my knowledge and later document it on the website. 
 
-
 **Steps:
 Identify Interests: Choose a topic that excites you or is relevant to your career goals (e.g., web development, AI, game design).**
 
@@ -691,6 +690,10 @@ Wednesday, Nov. 20th
 
 -Emailed my mentor for help on additional features I could include in my project and described my progress thus far. (5 min).
 -Worked on the script's usability and the feature of compiling all of the information in an array for the user to view at the end of running the script. (40 min).
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-20%2011.24.33%20AM.png)
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-20%2011.35.43%20AM.png)
 
 
 
