@@ -650,6 +650,15 @@ I emailed my mentor on help on how to implement the grep command using different
 
 Timeline Organization:
 
+Tuesday, Nov. 19th:
+-Finalize grep part of the script including read commands and adding the emails containing PII to the flaggedList array.
+Wednesday, Nov. 19th:
+-Start the finalizing parts of the diff part of the script that will allow the user to add duplicated or forwarded emails to a separate array at their discretion and then a compilation of the flaggedList and forwardedList at the end of the script and an option for the user to view it. Specifically, the read command allowing for user interaction.
+Thursday, Nov. 19th:
+Work on the formatting for returning the report at the end of script specifying what is flagged and what was duplicated/forwarded.
+Friday, Nov. 19th:
+Add useful information to the report today to supplement the messages to the user such as the email content itself for viewing, and this info will help identify compared to the employee List, whose SSN has been shared.
+
 Week 2: Work on refining my MVP submission to work along with the grep part of the script (Monday-Wednesday)
 
 Check the second loop is adding the duplicates or forwarded emails to a different array from the first part of the script (Thursday)
