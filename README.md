@@ -649,7 +649,24 @@ I emailed my mentor on help on how to implement the grep command using different
 
 # Unit 13
 
-Schedule
+Timeline Organization:
+
+Week 2: Work on refining my MVP submission to work along with the grep part of the script (Monday-Wednesday)
+
+Check the second loop is adding the duplicates or forwarded emails to the same array from the first part of the script (Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
+
+Week 3: Work on the prompts for the user at the end of each part of the script to give the user an option to add each file that contains a SSN from the company or a duplicate email that has been forwarded using the read command (Monday-Thursday)
+
+Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
+
+Week 4: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
+
+Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
+
+Week 5: 
+
 
 Daily Log:
 
@@ -664,6 +681,11 @@ Started on the changes needed to make the diff part of the script work (10 min).
 Tuesday, Nov. 19th
 
 Focused on the read commands in the diff part of my script to parse through incorrect inputs by the user for example if the user inputs "yes" or "Yes" instead of y which is the designated character the script will work with. (25 min) 
-Need to work on the writeups 
+I worked on the part of the script that deleted the last part of the array which is the employeeList file so it doesn't check the employeeList with itself. (10 min).
+Need to work on the writeups for the timeline for this week and the rest of the semester (10 min)
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-19%208.03.43%20PM.png)
+
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-19%2010.52.53%20AM.png)
 
 
