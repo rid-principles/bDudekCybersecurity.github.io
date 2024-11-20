@@ -661,11 +661,11 @@ Week 3: Work on the prompts for the user at the end of each part of the script t
 
 Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
 
-Week 4: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
+Week 4: Add a feature that can allow the user to add the people who have sent the emails with SSN's to a flaggedList to keep for HR in a company and detail what has happened so the proper actions can be taken.
+
+Week 5: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
 
 Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
-
-Week 5: 
 
 
 Daily Log:
