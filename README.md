@@ -663,5 +663,7 @@ Started on the changes needed to make the diff part of the script work (10 min).
 
 Tuesday, Nov. 19th
 
-Focused on the read commands in the diff part of my script to parse through incorrect inputs by the user for example if the user inputs "yes" or "Yes" instead of y which is the designated character the script will work with. (35 min) 
+Focused on the read commands in the diff part of my script to parse through incorrect inputs by the user for example if the user inputs "yes" or "Yes" instead of y which is the designated character the script will work with. (25 min) 
+Need to work on the writeups 
+
 
