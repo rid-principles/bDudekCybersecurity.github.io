@@ -653,7 +653,7 @@ Timeline Organization:
 
 Week 2: Work on refining my MVP submission to work along with the grep part of the script (Monday-Wednesday)
 
-Check the second loop is adding the duplicates or forwarded emails to the same array from the first part of the script (Thursday)
+Check the second loop is adding the duplicates or forwarded emails to a different array from the first part of the script (Thursday)
 
 Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
 
@@ -666,7 +666,6 @@ Week 4: Add a feature that can allow the user to add the people who have sent th
 Week 5: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
 
 Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
-
 
 Daily Log:
 
@@ -687,5 +686,12 @@ Need to work on the writeups for the timeline for this week and the rest of the 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-19%208.03.43%20PM.png)
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-19%2010.52.53%20AM.png)
+
+Wednesday, Nov. 20th 
+
+-Emailed my mentor for help on additional features I could include in my project and described my progress thus far. (5 min).
+-Worked on the script's usability and the feature of compiling all of the information in an array for the user to view at the end of running the script. (40 min).
+
+
 
 
