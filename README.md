@@ -704,6 +704,14 @@ Wednesday, Nov. 20th
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-20%2011.35.43%20AM.png)
 
+Thursday, Nov. 21st
+
+-Worked on adding the duplicate files to a duplicateList array and returning the list to the user along with the flaggedList array (25 min)
+-Learned how to utilize the readarray command to actually add the file contents to the array instead of just the file name itself (20 min)
+-I need to start brainstorming other features to add to my script since I have some extra time left. 
+
+
+
 
 
 
