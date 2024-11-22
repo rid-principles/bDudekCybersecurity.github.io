@@ -716,6 +716,20 @@ Thursday, Nov. 21st
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-21%207.36.05%20PM.png)
 
+Friday, Nov. 22nd
+
+Worked on using the readarray command in the diff part of the script so it actually returns the files contents to the user instead of the 
+My mentor hasn't gotten back to me this week, however I asked Juno to give me some feedback and advice for my project currently (5 min)
+Worked on the timeline readjustment and the writeups for this week based on the feedback, advice and ideas Juno gave me through my mini-presentation (30 min)
+
+Juno:
+cool thing: The script has the ability to parse through files and compared them using the diff and grep commands.
+some advice: add more features for info detection that can even detect information such as the employee's addresses.
+
+Planned additions
+
+I will definitely work on implementing different features for next week such as address detection as well which can change the entire output of the script in as well because it will have to check the emails all over again for addresses. I have a little more than three weeks left to implement this feature into my script and I have been currently testing and adjusting the output of my script which I planned to do later. This being said I have a lot of extra time for the 
+
 
 
 
