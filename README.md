@@ -719,7 +719,7 @@ Thursday, Nov. 21st
 Friday, Nov. 22nd
 
 Worked on using the readarray command in the diff part of the script so it actually returns the files contents to the user instead of the file name (10 min)
-My mentor hasn't gotten back to me this week, however I asked Juno to give me some feedback and advice for my project currently (5 min)
+My mentor hasn't gotten back to me this week with a question about project feedback based on my current progress, however I asked Juno to give me some feedback and advice for my project currently (5 min)
 Worked on the timeline readjustment and the writeups for this week based on the feedback, advice and ideas Juno gave me through my mini-presentation (30 min)
 
 Juno:
