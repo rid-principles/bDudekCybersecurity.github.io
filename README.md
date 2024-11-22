@@ -714,6 +714,8 @@ Thursday, Nov. 21st
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-21%207.29.14%20PM.png)
 
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-21%207.36.05%20PM.png)
+
 
 
 
