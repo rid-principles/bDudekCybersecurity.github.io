@@ -710,9 +710,9 @@ Thursday, Nov. 21st
 -Learned how to utilize the readarray command to actually add the file contents to the array instead of just the file name itself (20 min)
 -I need to start brainstorming other features to add to my script since I have some extra time left. 
 
-![compSciMVPic]()
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-21%207.27.37%20PM.png)
 
-![compSciMVPic]()
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-21%207.29.14%20PM.png)
 
 
 
