@@ -718,7 +718,7 @@ Thursday, Nov. 21st
 
 Friday, Nov. 22nd
 
-Worked on using the readarray command in the diff part of the script so it actually returns the files contents to the user instead of the 
+Worked on using the readarray command in the diff part of the script so it actually returns the files contents to the user instead of the file name (10 min)
 My mentor hasn't gotten back to me this week, however I asked Juno to give me some feedback and advice for my project currently (5 min)
 Worked on the timeline readjustment and the writeups for this week based on the feedback, advice and ideas Juno gave me through my mini-presentation (30 min)
 
@@ -726,9 +726,10 @@ Juno:
 cool thing: The script has the ability to parse through files and compared them using the diff and grep commands.
 some advice: add more features for info detection that can even detect information such as the employee's addresses.
 
-Planned additions
+Planned addition: Add a feature that can check for the employee's addresses contained in the emails in conjunction with the social security numbers
+I will definitely work on implementing different features for next week such as address detection as well which can change the entire output of the script in as well because it will have to check the emails all over again for addresses. I have a little more than three weeks left to implement this feature into my script and I have been currently testing and adjusting the output of my script which I planned to do later. This being said I have a lot of extra time for this and I also want to add more options and features for the user to make better use of the interface.
 
-I will definitely work on implementing different features for next week such as address detection as well which can change the entire output of the script in as well because it will have to check the emails all over again for addresses. I have a little more than three weeks left to implement this feature into my script and I have been currently testing and adjusting the output of my script which I planned to do later. This being said I have a lot of extra time for the 
+Monday, Nov. 25th
 
 
 
