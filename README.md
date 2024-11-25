@@ -648,7 +648,7 @@ I emailed my mentor on help on how to implement the grep command using different
 
 # Unit 13
 
-Timeline Organization:
+1. Timeline Organization:
 
 Tuesday, Nov. 19th:
 -Finalize grep part of the script including read commands and adding the emails containing PII to the flaggedList array.
@@ -669,13 +669,24 @@ Week 3: Work on the prompts for the user at the end of each part of the script t
 
 Work on writeups at the end of the week Friday and adjust plan for next week accordingly(Friday)
 
-Week 4: Add a feature that can allow the user to add the people who have sent the emails with SSN's to a flaggedList to keep for HR in a company and detail what has happened so the proper actions can be taken.
+Week 4: Add a feature that can allow the user to add the people who have sent the emails with SSN's to create a folder to keep for HR in a company and detail what has happened so the proper actions can be taken.
 
 Week 5: Run using the test cases below and do a bug report to make address issues before my final submission. (Monday)
 
 Make changes to the script based on the bug report from Monday (Tuesday->Submission day)
 
-Daily Log:
+2. Mentor feedback 
+
+Juno:
+cool thing: The script has the ability to parse through files and compared them using the diff and grep commands.
+some advice: add more features for info detection that can even detect information such as the employee's addresses.
+
+John: Try to include a feature that can create a folder with all of the files that are flagged or duplicate that can be sent over to other users on different systems to make it more applicable in the real world.
+
+Planned addition: Add a feature that can add the flaggedList files and duplicate files into a folder that can be sent over to other users and/or saved beyond the terminal. Also, if I have time, I want to check for the employee's addresses contained in the emails in conjunction with the social security numbers
+I will definitely work on implementing different features for next week such as address detection as well which can change the entire output of the script in as well because it will have to check the emails all over again for addresses. I have a little more than three weeks left to implement these features into my script and I have been currently testing and adjusting the output of my script which I planned to do later. This being said I have a lot of extra time for this and I also want to add more options and features for the user to make better use of the interface.
+
+3. Daily Log:
 
 Monday, Nov. 18th
 
@@ -722,14 +733,16 @@ Worked on using the readarray command in the diff part of the script so it actua
 My mentor hasn't gotten back to me this week with a question about project feedback based on my current progress, however I asked Juno to give me some feedback and advice for my project currently (5 min)
 Worked on the timeline readjustment and the writeups for this week based on the feedback, advice and ideas Juno gave me through my mini-presentation (30 min)
 
-Juno:
-cool thing: The script has the ability to parse through files and compared them using the diff and grep commands.
-some advice: add more features for info detection that can even detect information such as the employee's addresses.
-
-Planned addition: Add a feature that can check for the employee's addresses contained in the emails in conjunction with the social security numbers
-I will definitely work on implementing different features for next week such as address detection as well which can change the entire output of the script in as well because it will have to check the emails all over again for addresses. I have a little more than three weeks left to implement this feature into my script and I have been currently testing and adjusting the output of my script which I planned to do later. This being said I have a lot of extra time for this and I also want to add more options and features for the user to make better use of the interface.
-
 Monday, Nov. 25th
+
+Worked on the writeups for the week and looking through what my mentor and Juno hava suggested I can do further with my project. (10 min)
+I want to implement the feature of creating a folder for all the flagged and duplicate files because the second feature I want to add is just an addition to what I already have. Worked on using the mkdir commmand to add a folder to the documents directory within the script(30 min)
+
+Tuesday, Nov. 26th
+
+
+
+
 
 
 
