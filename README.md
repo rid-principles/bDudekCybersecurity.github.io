@@ -740,6 +740,9 @@ I want to implement the feature of creating a folder for all the flagged and dup
 
 Tuesday, Nov. 26th
 
+Worked on the addition of all the flagged files into the system using the cp command, however I might end up using the mv command which will move the files instead of copying them (25 min).
+
+
 
 
 
