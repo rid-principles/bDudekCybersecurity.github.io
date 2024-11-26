@@ -745,7 +745,10 @@ I want to implement the feature of creating a folder for all the flagged and dup
 Tuesday, Nov. 26th
 
 Worked on the addition of all the flagged files into the system using the cp command, however I might end up using the mv command which will move the files instead of copying them (40 min).
+
 Writeups for today and submission (5 min).
+
+I had trouble using the command today possibly because I am referencing the wrong file in the script because after running the script the HR file was still empty at the end meaning they were not copied correctly or even at. When I get back I need to figure out how to access the files correctly when running them in the loop.
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-26%2011.07.37%20AM.png)
 
