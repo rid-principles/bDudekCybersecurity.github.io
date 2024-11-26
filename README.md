@@ -738,6 +738,10 @@ Monday, Nov. 25th
 Worked on the writeups for the week and looking through what my mentor and Juno hava suggested I can do further with my project. (10 min)
 I want to implement the feature of creating a folder for all the flagged and duplicate files because the second feature I want to add is just an addition to what I already have. Worked on using the mkdir commmand to add a folder to the documents directory within the script(30 min)
 
+![compSciMVPic]()
+
+![compSciMVPic]()
+
 Tuesday, Nov. 26th
 
 Worked on the addition of all the flagged files into the system using the cp command, however I might end up using the mv command which will move the files instead of copying them (25 min).
