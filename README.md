@@ -746,9 +746,9 @@ Tuesday, Nov. 26th
 
 Worked on the addition of all the flagged files into the system using the cp command, however I might end up using the mv command which will move the files instead of copying them (40 min).
 
-![compSciMVPic]()
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-26%2011.07.37%20AM.png)
 
-![compSciMVPic]()
+![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-26%2011.09.59%20AM.png)
 
 
 
