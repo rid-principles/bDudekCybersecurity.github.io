@@ -754,6 +754,22 @@ I had trouble using the command today possibly because I am referencing the wron
 
 ![compSciMVPic](https://github.com/rid-principles/bDudekCybersecurity.github.io/blob/main/Screenshot%202024-11-26%2011.09.59%20AM.png)
 
+Monday, Dec. 2nd
+
+Completed the 12/2 turn-in (5 min)
+
+Experimented with the add and copy commands in the script and filed which files are which to keep track of what is being added using the script. (40 min)
+
+emailOne: Not containing any PII but duplicate of emailThree.
+
+emailTwo: Contains PII and is duplicate of emailFive.
+
+emailThree: Not containing any PII but duplicate of the emailOne.
+
+emailFour: Contains PII and is duplicate of emailThree.
+
+emailFive: Not a duplicate of any email and doesn't contain any PII.
+
 
 
 
