@@ -772,6 +772,10 @@ emailFive: Not a duplicate of any email and doesn't contain any PII.
 
 Tuesday, Dec. 3rd
 
+Worked on letting the user know at the end of the script that the files have been added to a documents folder after the script has finished running. (5 min)
+
+Started the portfolio for my project using the portfolio from the beginning of the year and started on the overview of the project and the connection to a real world application to manage security through emails. (35 min)
+
 
 
 
