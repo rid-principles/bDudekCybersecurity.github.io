@@ -776,7 +776,9 @@ Worked on letting the user know at the end of the script that the files have bee
 
 Started the portfolio for my project using the portfolio from the beginning of the year and started on the overview of the project and the connection to a real world application to manage security through emails. (35 min)
 
+Wednesday, Dec. 4th
 
+Worked on the portfolio and started 
 
 
 
