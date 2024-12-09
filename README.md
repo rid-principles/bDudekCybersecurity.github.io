@@ -780,13 +780,13 @@ Wednesday, Dec. 4th
 
 Worked on the portfolio and included a new sub-page separate from the portfolio because I just want to add the project as art of my portfolio instead of my portfolio as part of my project.(45 min)
 
-Thursday, Dec. 4th
+Thursday, Dec. 5th
 
-Worked on the portfolio and included a new sub-page separate from the portfolio because I just want to add the project as art of my portfolio instead of my portfolio as part of my project.(45 min)
+Kept working on the portfolio and worked on the writeup for the features of the project and the steps I have taken to this point in my project.(45 min)
 
-Friday, Dec. 4th
+Friday, Dec. 6th
 
-Worked on the portfolio and included a new sub-page separate from the portfolio because I just want to add the project as art of my portfolio instead of my portfolio as part of my project.(45 min)
+Worked on importing all the pictures of the features and the path I took with my project from my other repository and started planning out how I want to present my video.(45 min)
 
 
 
