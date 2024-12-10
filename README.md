@@ -790,7 +790,11 @@ Worked on importing all the pictures of the features and the path I took with my
 
 Monday, Dec. 9th
 
-Recorded my video, I might send it to my mentor to show the functionality and if there is anything else I should include in the video. Will put onto Github tomorrow. (45 min)
+Recorded my video, I might send it to my mentor to show the functionality and if there is anything else I should include in the video. Will put onto Github tomorrow. However, I didn't fix a bug I had planned to fix concerning the printing of the report at the end of the script. I need to re-record with the bug fixed. (45 min)
+
+Tuesday, Dec. 10th
+
+
 
 
 
