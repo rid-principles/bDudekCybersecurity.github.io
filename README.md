@@ -794,6 +794,7 @@ Recorded my video, I might send it to my mentor to show the functionality and if
 
 Tuesday, Dec. 10th
 
+Worked on the bug that I encountered where the readarray command was replacing the files it contained so at the end there was only one file left in the report. However, the duplicate file system will only show one duplicate for efficiency and decreasing the amount of data presented to the user. (45 min).
 
 
 
