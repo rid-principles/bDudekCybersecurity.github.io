@@ -796,6 +796,12 @@ Tuesday, Dec. 10th
 
 Worked on the bug that I encountered where the readarray command was replacing the files it contained so at the end there was only one file left in the report. However, the duplicate file system will only show one duplicate for efficiency and decreasing the amount of data presented to the user. (45 min).
 
+Wednesday, Dec. 11th
+
+Included the video for the project today and made sure it cohad all the video controls I wanted it to have (20 min)
+
+Looked through entire portfolio and readMe file for my project to make sure I include everything in my presentation on Friday (25 min).
+
 
 
 
