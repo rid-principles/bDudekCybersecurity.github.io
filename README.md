@@ -798,9 +798,9 @@ Worked on the bug that I encountered where the readarray command was replacing t
 
 Wednesday, Dec. 11th
 
-Included the video for the project today and made sure it cohad all the video controls I wanted it to have (20 min)
+Included the video for the project today and made sure it cohad all the video controls I wanted it to have (25 min)
 
-Looked through entire portfolio and readMe file for my project to make sure I include everything in my presentation on Friday (25 min).
+Looked through entire portfolio and readMe file for my project to make sure I include everything in my presentation on Friday (15 min).
 
 
 
